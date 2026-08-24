@@ -1,58 +1,138 @@
-# Privacy Policy for Hydra - Water Tracker & Health Manager
+# Privacy Policy for Hydra – Water Tracker & Health Manager
+
 **Effective Date:** August 24, 2026
 **Last Updated:** August 24, 2026
 **Developer:** DRML TECHNOLOGIES
-**Contact:** networkize01@gmail.com
+**Contact:** [networkize01@gmail.com](mailto:networkize01@gmail.com)
 
 ---
 
 ## 1. Introduction
-Hydra - Water Tracker & Health Manager ("Hydra", "we", "us") is committed to protecting your privacy. This app is designed with a **Privacy-by-Design** approach, ensuring that your sensitive health and fitness data remains under your control.
+
+Hydra – Water Tracker & Health Manager ("Hydra", "we", "us", or "our") is committed to protecting your privacy. We follow a **privacy-by-design** approach, ensuring that your sensitive health and fitness data remains secure, private, and fully under your control.
+
+Hydra is designed as an **offline-first application**, meaning your personal data is stored locally on your device and is not transmitted to external servers unless explicitly required for core functionality.
+
+---
 
 ## 2. Information We Collect & How We Use It
-Hydra collects and processes data strictly to provide health tracking and hydration recommendations.
+
+Hydra collects and processes data strictly to provide health tracking, hydration insights, and personalized recommendations.
 
 ### A. Personal & Health Data (Stored Locally)
-We store the following data exclusively in a private database on your Android device:
-*   **Body Profile:** Age, Gender, Weight, and Height.
-*   **Health Logs:** Water intake history, sleep cycles, and daily step counts.
-*   **Goals:** Personalized hydration and health targets.
 
-**Storage Method:** This data is stored in the Android Application Sandbox. We do not transmit this health data to our servers or any third parties.
+We store the following data exclusively on your device:
+
+* **Body Profile:** Age, gender, weight, and height
+* **Health Logs:** Water intake history, sleep data, and step count activity
+* **Goals & Preferences:** Personalized hydration targets and health settings
+
+**Storage Method:**
+All data is securely stored within the Android application sandbox (private app storage).
+We **do not transmit, sync, or store this data on external servers or cloud systems**.
+
+---
 
 ### B. Device Permissions & Sensitive Data
-Hydra requests specific permissions to enable core features:
-*   **Location (GPS & Network):** With your consent, we access your location to fetch local weather data (temperature/humidity). This is used to adjust your hydration goals.
-*   **Physical Activity:** We access activity sensors to estimate your energy expenditure and dynamically increase your water target during exercise.
-*   **Notifications:** We use local notifications to send hydration reminders.
+
+Hydra requests only the permissions necessary to enable essential features:
+
+* **Location (GPS / Network):**
+  Used (with your consent) to fetch local weather conditions such as temperature and humidity. This helps adjust hydration recommendations dynamically.
+
+* **Physical Activity / Sensors:**
+  Used to track steps and activity levels, enabling accurate health insights and adaptive hydration goals.
+
+* **Notifications:**
+  Used to send local reminders for hydration, sleep, and activity tracking.
+
+---
 
 ### C. Third-Party Services
-*   **Weather APIs:** General location data (City or IP-based) is sent to weather providers (e.g., Open-Meteo) to fetch climate data. No personal health metrics are shared.
-*   **Google Play Billing:** All Premium subscriptions are processed by Google. We do not collect or store credit card or billing information.
-*   **IP Geolocation:** If GPS is unavailable, general location may be derived from your IP address via third-party services to provide weather context.
+
+Hydra uses limited third-party services strictly for functionality:
+
+* **Weather APIs (e.g., Open-Meteo):**
+  General location data (city-level or IP-based) may be shared to fetch weather information.
+  **No personal health data is ever shared.**
+
+* **Google Play Billing:**
+  All in-app purchases and subscriptions are securely processed by Google.
+  We **do not collect or store any payment or billing information**.
+
+* **IP-Based Geolocation (Fallback):**
+  If GPS access is unavailable, approximate location may be derived via IP to provide weather-based insights.
+
+---
 
 ## 3. Data Sharing & Disclosure
-*   **No Sale of Data:** We do not sell, rent, or trade your personal or health data.
-*   **No Advertising:** Your health logs are never shared with advertisers or data brokers.
-*   **Legal Compliance:** We may disclose information only if required by law or to protect our legal rights.
+
+We are committed to strict data protection principles:
+
+* **No Data Selling:**
+  We do not sell, rent, or trade your personal or health data.
+
+* **No Advertising Use:**
+  Your data is not shared with advertisers, analytics trackers, or data brokers.
+
+* **Legal Requirements:**
+  We may disclose information only if required by law or to protect our legal rights and safety.
+
+---
 
 ## 4. Data Security & Encryption
-*   **On-Device Security:** We utilize Android’s internal storage security to prevent other apps from accessing your data.
-*   **Encrypted Backups:** If you choose to export your data, Hydra uses **AES-256 encryption** to secure your backup files. You are responsible for the security of your exported files.
+
+We implement strong security measures to protect your data:
+
+* **On-Device Security:**
+  Data is stored within Android’s secure internal storage, inaccessible to other apps.
+
+* **Encrypted Backups:**
+  If you export your data, Hydra applies **AES-256 encryption** to backup files.
+  You are responsible for securely storing and managing exported files.
+
+---
 
 ## 5. User Control & Data Deletion
-You have total control over your data:
-*   **View/Edit:** You can modify any logs or profile data within the app settings.
-*   **Complete Deletion:** You can wipe all data by selecting "Clear All Data" in the App Settings or by uninstalling the application. Uninstalling removes all local database files instantly.
+
+You have complete ownership and control over your data:
+
+* **Access & Modification:**
+  You can view, edit, or update your data anytime within the app.
+
+* **Full Data Deletion:**
+  You can permanently delete all data by:
+
+  * Using the **"Clear All Data"** option in settings, or
+  * Uninstalling the app (which removes all stored data immediately)
+
+---
 
 ## 6. Children's Privacy
-Hydra is not intended for children under 13. We do not knowingly collect information from children. Since all data is stored locally without account registration, we do not maintain a database of user identities.
+
+Hydra is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from children.
+Since Hydra does not require account creation and stores data locally, we do not maintain any centralized user database.
+
+---
 
 ## 7. Changes to This Policy
-We may update this policy to reflect changes in our app or legal requirements. Updates will be posted within the app and the effective date will be revised.
+
+We may update this Privacy Policy to reflect:
+
+* Changes in app functionality
+* Legal or regulatory requirements
+
+Any updates will be reflected within the app, and the **"Last Updated"** date will be revised accordingly.
+
+---
 
 ## 8. Contact Us
-For any privacy-related questions, please contact:
-**DRML TECHNOLOGIES**
-Email: networkize01@gmail.com
 
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact:
+
+**DRML TECHNOLOGIES**
+Email: [networkize01@gmail.com](mailto:networkize01@gmail.com)
+
+---
