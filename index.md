@@ -1,7 +1,7 @@
 # Privacy Policy for Hydra – Water Tracker & Health Manager
 
 **Effective Date:** August 24, 2026
-**Last Updated:** August 24, 2026
+**Last Updated:** September 28, 2026
 **Developer:** DRML TECHNOLOGIES
 **Contact:** [networkize01@gmail.com](mailto:networkize01@gmail.com)
 
